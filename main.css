@@ -1,0 +1,20 @@
+ul{
+  background-color: #FF0080;
+}
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover{
+  color: #4C0B5F;
+}
+span{
+  color: #0B3B2E;
+  margin: 0 100px;
+}
